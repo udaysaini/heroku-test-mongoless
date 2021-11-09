@@ -1,3 +1,10 @@
+# Intro:
+
+Name: Uday Saini
+Conestoga College - Waterloo
+
+This application is a shop that provides users with custom designer posters. User can visit the shop to see the options available at the store and make an order.
+
 # Running the app :
 
 Steps to run the project:
