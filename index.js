@@ -179,7 +179,7 @@ app.get('/shop',function(req,res){
 });
 
 // start the server and listen at a port
-const PORT = 8080;
+const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => {
     console.log(`Website is up and running at localhost:${PORT}`);
 });
